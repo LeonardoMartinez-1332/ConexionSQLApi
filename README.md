@@ -2,6 +2,8 @@
 
 API REST desarrollada en **ASP.NET Core** que permite verificar la conexión a una base de datos **SQL Server**, pensada para ser consumida desde una app móvil hecha en **Xamarin Forms**.
 
+![Diagrama - ConexionSQLApi](https://github.com/LeonardoMartinez-1332/ConexionSQLApi/blob/master/estructura-api.png?raw=true)
+
 ---
 
 ## 🚀 Funcionalidad
