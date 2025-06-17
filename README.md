@@ -7,6 +7,9 @@ API REST desarrollada en **ASP.NET Core** que permite verificar la conexión a u
 ## 🚀 Funcionalidad
 
 - ✔️ Endpoint `/api/conexion/test` que realiza una prueba de conexión
+- <p align="center">
+  <img src="https://github.com/LeonardoMartinez-1332/ConexionSQLApi/blob/master/conexion-exitosa.png?raw=true" alt="Conexión Exitosa" width="500"/>
+</p>
 - 🛡️ Manejo de errores con mensajes claros
 - 📱 Compatible con consumo desde frontend móvil (Xamarin, Android, etc.)
 
